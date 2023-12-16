@@ -1,0 +1,15 @@
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/bin/Debug/net7.0/Battleship
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/bin/Debug/net7.0/Battleship.deps.json
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/bin/Debug/net7.0/Battleship.runtimeconfig.json
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/bin/Debug/net7.0/Battleship.dll
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/bin/Debug/net7.0/Battleship.pdb
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.csproj.AssemblyReference.cache
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.AssemblyInfoInputs.cache
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.AssemblyInfo.cs
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.csproj.CoreCompileInputs.cache
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.dll
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/refint/Battleship.dll
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.pdb
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/Battleship.genruntimeconfig.cache
+/Users/borgiak/coding/dotnetProjects/polito-exams-with-csharp/Battleship/Battleship/Battleship/obj/Debug/net7.0/ref/Battleship.dll
